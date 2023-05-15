@@ -1,7 +1,6 @@
 #include <iostream>
 #include "kutuphane.h"
 
-
 int main()
 {
     std::cout << "Merhaba Dünya\n";
