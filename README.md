@@ -4,6 +4,6 @@ I hope i can make game end of it
 
 cmake build code:
 ```
-sh
+bash
  cmake -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -S .
 ```
